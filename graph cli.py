@@ -1,4 +1,4 @@
-import random
+import random # it generates random values to showcase the graph
 import sys
 import os
 import time
